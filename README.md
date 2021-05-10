@@ -2,10 +2,6 @@
 <h3 align="center">I'm a Brazilian Developer.</h3>
 
 <p align="center">
-  <code><img title="Bash" alt="Bash" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/bash/bash-original.svg"></code>
-  <code><img title="C" alt="C" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/c/c-original.svg"></code>
-  <code><img title="C++" alt="C++" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img title="Git" alt="Git" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/git/git-original.svg"></code>
   <code><img title="Golang" alt="Golang" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/go/go-original.svg"></code>
   <code><img title="Javascript" alt="Javascript" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
   <code><img title="Python" alt="Python" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/python/python-original.svg"></code>
