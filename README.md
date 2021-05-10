@@ -2,10 +2,10 @@
 <h3 align="center">I'm a Brazilian Developer.</h3>
 
 <p align="center">
-  <code><img title="Golang" alt="Golang" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/go/go-original.svg"></code>
+   <code><img title="TypeScript" alt="TypeScript" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
   <code><img title="Javascript" alt="Javascript" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
   <code><img title="Python" alt="Python" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img title="TypeScript" alt="TypeScript" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+  <code><img title="Golang" alt="Golang" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/go/go-original.svg"></code>
 </p>
 
 <p align="center">
