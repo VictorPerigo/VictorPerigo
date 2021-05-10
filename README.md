@@ -9,6 +9,5 @@
 </p>
 
 <p align="center">
-<image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPerigo&layout=compact&langs_count=8"/>
 <image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=VictorPerigo&show_icons=true"/>
 </p>
