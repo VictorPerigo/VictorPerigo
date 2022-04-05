@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   I'm a Brazilian Javascript Developer.
+   I'm a Brazilian Javascript/Java Developer.
 </h3>
 
 <p align='center'>
